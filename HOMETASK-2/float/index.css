@@ -1,0 +1,132 @@
+.container{
+    width: 1400px;
+    height: 320px; 
+    float: left; 
+}
+
+.div1{
+    width: 300px;
+    height: 300px;
+    border: 5px dashed blue;
+    background-color: blanchedalmond;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    float: left;
+}
+
+
+ .div2{
+    width: 300px;
+    height: 300px;
+    border: 5px dashed blue;
+    background-color: blanchedalmond;
+    float: left;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+
+ .div3{ 
+    width: 300px;
+    height: 300px;
+    border: 5px dashed blue;
+    background-color: blanchedalmond;
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+} 
+
+.div4{ 
+    width: 300px;
+    height: 300px;
+    border: 5px dashed blue;
+    background-color: blanchedalmond;
+    float: left;
+    margin-left: 20px;
+
+} 
+
+.div5{ 
+    width: 300px;
+    height: 300px;
+    border: 5px dashed blue;
+    background-color: blanchedalmond;
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}  
+
+.div6{
+    width: 300px;
+    height: 300px;
+    border: 5px dashed blue;
+    background-color: blanchedalmond;
+    float: left;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+
+ .div7{ 
+    width: 300px;
+    height: 300px;
+    border: 5px dashed blue;
+    background-color: blanchedalmond;
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+} 
+
+.div8{ 
+    width: 300px;
+    height: 300px;
+    border: 5px dashed blue;
+    background-color: blanchedalmond;
+    float: left;
+    margin-left: 20px;
+
+} 
+
+.div9{ 
+    width: 300px;
+    height: 300px;
+    border: 5px dashed blue;
+    background-color: blanchedalmond;
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}  
+
+.div10{
+    width: 300px;
+    height: 300px;
+    border: 5px dashed blue;
+    background-color: blanchedalmond;
+    float: left;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+
+ .div11{ 
+    width: 300px;
+    height: 300px;
+    border: 5px dashed blue;
+    background-color: blanchedalmond;
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+} 
+
+.div12{ 
+    width: 300px;
+    height: 300px;
+    border: 5px dashed blue;
+    background-color: blanchedalmond;
+    float: left;
+    margin-left: 20px;
+
+} 

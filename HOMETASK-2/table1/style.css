@@ -1,0 +1,130 @@
+body{
+    background-color: black;
+    margin: 30px;
+}
+
+.container1{
+    width: 420px;
+    height: 420px;
+    float: left;
+}
+.div1 {
+    background-color: rgb(4, 69, 155);
+    width: 200px;
+    height: 200px;
+    border: 5px solid rgb(255, 255, 255); 
+    float: left;   
+}
+
+.div2 {
+    background-color: rgb(4, 69, 155);
+    width: 200px;
+    height: 200px;
+    border: 5px solid rgb(255, 255, 255);
+    float: left; 
+   
+}
+
+.div3 {
+    background-color: rgb(4, 69, 155);
+    width: 200px;
+    height: 200px;
+    border: 5px solid rgb(255, 255, 255);
+    float: left; 
+}
+
+.div4 {
+
+    background-color: rgb(4, 69, 155);
+    width: 200px;
+    height: 200px;
+    border: 5px solid rgb(255, 255, 255); 
+    float: right;
+}
+
+
+.container2{
+    width: 420px;
+    height: 420px;
+    float: left;
+   
+}
+.div5 {
+    background-color: rgb(4, 69, 155);
+    width: 130px;
+    height: 130px;
+    border: 5px solid rgb(255, 255, 255);; 
+    float: left;   
+}
+
+.div6 {
+    background-color: rgb(4, 69, 155);
+    width: 130px;
+    height: 130px;
+    border: 5px solid rgb(255, 255, 255);;
+    float: left; 
+   
+}
+
+.div7 {
+    background-color: rgb(4, 69, 155);
+    width: 130px;
+    height: 130px;
+    border: 5px solid rgb(255, 255, 255);; 
+    float: left; 
+}
+
+.div8 {
+
+    background-color: rgb(4, 69, 155);
+    width: 130px;
+    height: 130px;
+    border: 5px solid rgb(255, 255, 255);; 
+    float: left;
+}
+
+.div9 {
+    background-color: rgb(4, 69, 155);
+    width: 130px;
+    height: 130px;
+    border: 5px solid rgb(255, 255, 255);; 
+    float: left; 
+}
+
+.div10 {
+
+    background-color: rgb(4, 69, 155);
+    width: 130px;
+    height: 130px;
+    border: 5px solid rgb(255, 255, 255);; 
+    float: left;
+} 
+
+
+.div11 {
+
+    background-color: rgb(4, 69, 155);
+    width: 130px;
+    height: 130px;
+    border: 5px solid rgb(255, 255, 255);; 
+    float: left;
+}
+
+.div12 {
+    background-color: rgb(4, 69, 155);
+    width: 130px;
+    height: 130px;
+    border: 5px solid rgb(255, 255, 255);; 
+    float: left; 
+}
+
+.div13 {
+
+    background-color: rgb(4, 69, 155);
+    width: 130px;
+    height: 130px;
+    border: 5px solid rgb(255, 255, 255);; 
+    float: left;
+} 
+
+
